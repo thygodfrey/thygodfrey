@@ -1,4 +1,5 @@
-### Hello! 👋 I'm John Louise Lagazo
+### Hello! 👋 
+I'm John Louise Lagazo
 
 - 🔭 I’m currently a 4th year student in the University of Santo Tomas - Manila
 - 🌱 I’m currently taking up BS Computer Science specializing in Data Science
